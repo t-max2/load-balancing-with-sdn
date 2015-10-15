@@ -1,0 +1,1 @@
+As our 4th year project we will be using Software Defined Networking to create a virtual load balancer. We will be using Mininet to mimic our network and using Project Floodlight.
